@@ -9,12 +9,12 @@ While this is a great way to start, IDLE is not ideal for creating larger progra
 **Demonstration topics:**
 
 1. print()
-2. define a variable
-3. print a variable
-4. print a combination of strings and variable
-4a. +
-4b. .format()
-4c. f-strings
+1. define a variable
+1. print a variable
+1. print a combination of strings and variable
+   1. '+'
+   1. .format()
+   1. f-strings
 
 **Assignment:**
 
