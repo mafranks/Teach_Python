@@ -9,3 +9,11 @@ If any additional files are required for the lessons, they will be included alon
 [Lesson 2 - Variables and Variable Types](Lesson_2)
 
 [Lesson 3 - Numbers](Lesson_3)
+
+[Lesson 4 - Strings](Lesson_4)
+
+[Lesson 5 - Lists](Lesson_5)
+
+[Lesson 6 - Dictionaries](Lesson_6)
+
+[Lesson 7 - Tuples](Lesson_7)
