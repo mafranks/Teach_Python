@@ -19,3 +19,5 @@ We'll deal with troubleshooting along the way because I, like you, make mistakes
 [Lesson 6 - Dictionaries](Lesson_6)
 
 [Lesson 7 - Tuples](Lesson_7)
+
+[Lesson 8 - Whitespace](Lesson_8)
