@@ -5,5 +5,7 @@ This repo is going to contain the file I'm creating to teach an introduction to 
 If any additional files are required for the lessons, they will be included along with the scripts I end up creating.
 
 Lesson 1 - IDLE
+
 Lesson 2 - Variables and Variable Types
+
 Lesson 3 - Numbers
